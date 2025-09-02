@@ -6,5 +6,10 @@ Todos os arquivos presentes são modelos base, todo texto precisa ser adicionado
 Comands => 
 {
 > pip install django  // install Django
-> .\venv\Scripts\activate // ativar maquina virtual
-}
+> 
+> python -m venv venv // crear amiente virtual
+> 
+> .\venv\Scripts\activate // ativar amiente virtual
+> 
+> pip install -r requirements.txt // lista todas as dependências do projeto e suas versões exatas
+};
