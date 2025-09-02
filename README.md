@@ -8,10 +8,14 @@ Comands =>
 > pip install django ( instala Django )
 > 
 > python -m venv venv ( crear amiente virtual )
+>
+> django-admin startproject [meu_projeto] ( criar projeto )
 > 
 > .\venv\Scripts\activate ( ativar amiente virtual )
 > 
 > pip install -r requirements.txt ( lista todas as dependências do projeto e suas versões exatas )
+>
+> python manage.py makemigrations ( criar migração )
 >
 > pip install django-bootstrap-v5 ( instala bootstrap )
 >
