@@ -5,11 +5,28 @@ Todos os arquivos presentes são modelos base, todo texto precisa ser adicionado
 
 Comands => 
 {
-> pip install django  // install Django
+> pip install django  // instala Django
 > 
 > python -m venv venv // crear amiente virtual
 > 
 > .\venv\Scripts\activate // ativar amiente virtual
 > 
 > pip install -r requirements.txt // lista todas as dependências do projeto e suas versões exatas
+>
+> pip install django-bootstrap-v5 // instala bootstrap 
 };
+
+
+
+# Exemple altomatic installation
+
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'blog',  # app criado
+    'bootstrap5', #Bootstrap 5
+]
