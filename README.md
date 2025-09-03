@@ -11,7 +11,7 @@ Comands =>
 >
 > django-admin startproject [meu_projeto] ( criar projeto )
 > 
-> .\venv\Scripts\activate ( ativar amiente virtual )
+> souce \venv\Scripts\activate ( ativar amiente virtual )
 > 
 > pip install -r requirements.txt ( lista todas as dependências do projeto e suas versões exatas )
 >
