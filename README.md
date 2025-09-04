@@ -4,9 +4,7 @@ Todos os arquivos presentes são modelos base, todo texto precisa ser adicionado
 
 
 Comands => 
-{
-> pip install django ( instala Django )
-> 
+{ 
 > python -m venv venv ( crear amiente virtual )
 >
 > django-admin startproject [meu_projeto] ( criar projeto )
@@ -16,6 +14,8 @@ Comands =>
 > pip freeze > requirements.txt ( incluir as dependências no arquivo requirements.txt )
 > 
 > pip install -r requirements.txt ( lista todas as dependências do projeto e suas versões exatas )
+>
+> pip install django ( instala Django )
 >
 > python manage.py makemigrations ( criar migração )
 >
