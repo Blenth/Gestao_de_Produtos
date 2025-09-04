@@ -19,6 +19,8 @@ Comands =>
 >
 > python manage.py makemigrations ( criar migração )
 >
+> python manage.py migrate ( vincular ao bancoDB )
+>
 > pip install django-bootstrap-v5 ( instala bootstrap )
 >
 > python manage.py runserver ( rodar aplicação )
