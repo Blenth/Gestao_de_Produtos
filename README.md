@@ -7,7 +7,7 @@ Comands =>
 { 
 > python -m venv venv ( crear amiente virtual )
 >
-> django-admin startproject [meu_projeto] ( criar projeto )
+> django-admin startproject [meu_projeto]. ( criar projeto { não esqueça do ' . ' ao fim do nome do arquivo } )
 > 
 > source venv/Scripts/activate ( ativar amiente virtual )
 >
