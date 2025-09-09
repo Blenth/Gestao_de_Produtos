@@ -11,7 +11,7 @@ Comands =>
 >
 > pip install django ( instala Django )
 >
-> django-admin startproject [meu_projeto]. ( criar projeto { não esqueça do ' . ' ao fim do nome do arquivo } )
+> django-admin startproject [meu_projeto]. ( criar projeto { não esqueça do ' . ' apois do nome do arquivo com espaço para [ NomeArquivo . ] } )
 > 
 > source venv/Scripts/activate ( ativar amiente virtual )
 >
