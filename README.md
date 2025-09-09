@@ -5,6 +5,8 @@ Todos os arquivos presentes são modelos base, todo texto precisa ser adicionado
 
 Comands => 
 { 
+> Instalar versão mais atual do Python
+>
 > python -m venv venv ( crear amiente virtual )
 >
 > pip install django ( instala Django )
