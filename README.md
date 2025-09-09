@@ -7,6 +7,8 @@ Comands =>
 { 
 > python -m venv venv ( crear amiente virtual )
 >
+> pip install django ( instala Django )
+>
 > django-admin startproject [meu_projeto]. ( criar projeto { não esqueça do ' . ' ao fim do nome do arquivo } )
 > 
 > source venv/Scripts/activate ( ativar amiente virtual )
@@ -14,8 +16,6 @@ Comands =>
 > pip freeze > requirements.txt ( incluir as dependências no arquivo requirements.txt )
 > 
 > pip install -r requirements.txt ( lista todas as dependências do projeto e suas versões exatas )
->
-> pip install django ( instala Django )
 >
 > python manage.py makemigrations ( criar migração )
 >
