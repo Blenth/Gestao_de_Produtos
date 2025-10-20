@@ -26,6 +26,9 @@ Comands =>
 > pip install django-bootstrap-v5 ( instala bootstrap )
 >
 > python manage.py runserver ( rodar aplicação )
+>
+> pip install django-extensions ( caso peça )
+> 
 };
 
 
